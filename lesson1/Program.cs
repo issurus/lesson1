@@ -11,6 +11,7 @@ namespace lesson1
         static void Main(string[] args)
         {
             Console.WriteLine("hola");
+            Console.WriteLine("que tal");
             Console.ReadKey();
         }
     }
